@@ -62,22 +62,4 @@ Evaluation metrics:
 | Sleep Hours | Average sleep hours |
 | Internet Access | Internet availability |
 | Extracurricular | Activity participation |
-## 📁 Project Structure
 
-student-performance-ai-ml/
-│
-├── data/
-│   └── student_performance.csv
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── train_model.py
-│   └── predict.py
-│
-├── models/
-│   └── student_performance_model.pkl
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── LICENSE
