@@ -63,32 +63,3 @@ Evaluation metrics:
 | Internet Access | Internet availability |
 | Extracurricular | Activity participation |
 
-## 💻 Run Locally
-
-```bash
-pip install -r requirements.txt
-python src/train_model.py
-streamlit run app.py
-
-
-## 📁 Project Structure
-
-student-performance-ai-ml/
-│
-├── data/
-│   └── student_performance.csv
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── train_model.py
-│   └── predict.py
-│
-├── models/
-│   └── student_performance_model.pkl
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── LICENSE
-
-
